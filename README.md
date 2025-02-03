@@ -1,7 +1,5 @@
 <div align="center">
 
-![](https://raw.githubusercontent.com/itsme-Subid/rapidops-clone/main/1.webp)
-![](https://raw.githubusercontent.com/itsme-Subid/rapidops-clone/main/2.webp)
 ![](https://img.shields.io/github/languages/top/itsme-Subid/rapidops-clone?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/itsme-Subid/rapidops-clone?style=for-the-badge)
 ![](https://img.shields.io/github/languages/code-size/itsme-Subid/rapidops-clone?style=for-the-badge)
