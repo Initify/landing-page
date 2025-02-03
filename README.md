@@ -28,7 +28,7 @@ git clone https://github.com/Initify/initify.com.git
 To run the project, you will need to have Node.js and pnpm or yarn or npm installed on your machine. Once you have those, you can use the following commands:
 
 ```bash
-cd initify
+cd initify.com
 pnpm install
 pnpm run dev
 ```
@@ -36,7 +36,7 @@ pnpm run dev
 or, if you are using yarn:
 
 ```bash
-cd initify
+cd initify.com
 yarn
 yarn run dev
 ```
@@ -44,7 +44,7 @@ yarn run dev
 or, if you are using npm:
 
 ```bash
-cd initify
+cd initify.com
 npm install
 npm run dev
 ```
