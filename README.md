@@ -1,7 +1,5 @@
 <div align="center">
 
-# [rapidops-clone](https://rapidops-clone-subid-das.vercel.app/)
-
 ![](https://raw.githubusercontent.com/itsme-Subid/rapidops-clone/main/1.webp)
 ![](https://raw.githubusercontent.com/itsme-Subid/rapidops-clone/main/2.webp)
 ![](https://img.shields.io/github/languages/top/itsme-Subid/rapidops-clone?style=for-the-badge)
@@ -13,7 +11,7 @@
 
 </div>
 
-Welcome to the rapidops-clone repository! rapidops-clone is a visually stunning website built using React.js, TypeScript, Redux, Tailwind CSS and Firebase. The project is a front-end development endeavor and can be found on [GitHub](https://github.com/itsme-Subid/rapidops-clone).
+Welcome to the initify repository! initify is a visually stunning website built using React.js, TypeScript, Redux, Tailwind CSS and Firebase.
 
 ## Getting Started
 
@@ -24,7 +22,7 @@ To get started, you can simply clone this repository and install the dependencie
 To clone the repository, you will need to have git installed on your machine. Once you have those, you can use the following commands:
 
 ```bash
-git clone https://github.com/itsme-Subid/rapidops-clone.git
+git clone https://github.com/Initify/initify.com.git
 ```
 
 ### Running the Project
@@ -32,7 +30,7 @@ git clone https://github.com/itsme-Subid/rapidops-clone.git
 To run the project, you will need to have Node.js and pnpm or yarn or npm installed on your machine. Once you have those, you can use the following commands:
 
 ```bash
-cd rapidops-clone
+cd initify
 pnpm install
 pnpm run dev
 ```
@@ -40,7 +38,7 @@ pnpm run dev
 or, if you are using yarn:
 
 ```bash
-cd rapidops-clone
+cd initify
 yarn
 yarn run dev
 ```
@@ -48,7 +46,7 @@ yarn run dev
 or, if you are using npm:
 
 ```bash
-cd rapidops-clone
+cd initify
 npm install
 npm run dev
 ```
