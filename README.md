@@ -1,11 +1,11 @@
 <div align="center">
 
-![](https://img.shields.io/github/languages/top/itsme-Subid/rapidops-clone?style=for-the-badge)
-![](https://img.shields.io/github/languages/count/itsme-Subid/rapidops-clone?style=for-the-badge)
-![](https://img.shields.io/github/languages/code-size/itsme-Subid/rapidops-clone?style=for-the-badge)
-![](https://img.shields.io/github/repo-size/itsme-Subid/rapidops-clone?style=for-the-badge)
-![](https://img.shields.io/github/last-commit/itsme-Subid/rapidops-clone?style=for-the-badge)
-![](https://img.shields.io/github/commit-activity/w/itsme-Subid/rapidops-clone?style=for-the-badge)
+![](https://img.shields.io/github/languages/top/Initify/initify.com?style=for-the-badge)
+![](https://img.shields.io/github/languages/count/Initify/initify.com?style=for-the-badge)
+![](https://img.shields.io/github/languages/code-size/Initify/initify.com?style=for-the-badge)
+![](https://img.shields.io/github/repo-size/Initify/initify.com?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/Initify/initify.com?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/w/Initify/initify.com?style=for-the-badge)
 
 </div>
 
